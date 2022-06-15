@@ -1,0 +1,16 @@
+export const homeObjOne = {
+    id: "about",
+    lightBg: false,
+    lightText: true,
+    lightTextDesc: true,
+    topLine: "Premium Site",
+    headLine: "Buy Online",
+    description: "Get access to our exclusive app that allows you to buy, sell, trade and earn Crypto Currencies without getting cahrged any fees.",
+    buttonLabel: "Explore Buying Crypto Online",
+    imgStart: false,
+    img: require("../../images/png-1.png"),
+    alt: "mobile",
+    dark: true,
+    primary: true,
+    darkText: false,
+};

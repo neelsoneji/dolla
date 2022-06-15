@@ -19,7 +19,7 @@ export const Navbar = ({ toggle }) => {
         <
         NavbarContainer >
         <
-        NavLogo to = "/" > DOLLA < /NavLogo> <
+        NavLogo to = "/" > BITCOINMAT < /NavLogo> <
         MobileIcon onClick = { toggle } >
         <
         FaBars / >
