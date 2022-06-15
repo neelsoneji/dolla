@@ -18,37 +18,37 @@ export const Sidebar = ({ isOpen, toggle }) => {
         <
         CloseIcon / >
         <
-        /Icon>{" "} <
+        /Icon> <
         SidebarWrapper >
         <
         Sidebarmenu >
         <
         SidebarLink to = "personal"
         onClick = { toggle } >
-        Personal { " " } <
-        /SidebarLink>{" "} <
+        Personal <
+        /SidebarLink> <
         SidebarLink to = "business"
         onClick = { toggle } >
-        Business { " " } <
-        /SidebarLink>{" "} <
+        Business <
+        /SidebarLink> <
         SidebarLink to = "products"
         onClick = { toggle } >
-        Products { " " } <
-        /SidebarLink>{" "} <
+        Products <
+        /SidebarLink> <
         SidebarLink to = "about"
         onClick = { toggle } >
-        About { " " } <
-        /SidebarLink>{" "} <
+        About <
+        /SidebarLink> <
         SidebarLink to = "helpcenter"
         onClick = { toggle } >
-        Help Center { " " } <
-        /SidebarLink>{" "} <
-        /Sidebarmenu>{" "} <
+        Help Center <
+        /SidebarLink> <
+        /Sidebarmenu> <
         SidebtnWrap >
         <
-        SidebarRoute to = "/signin" > Sign In < /SidebarRoute>{" "} <
-        /SidebtnWrap>{" "} <
-        /SidebarWrapper>{" "} <
+        SidebarRoute to = "/signin" > Sign In < /SidebarRoute> <
+        /SidebtnWrap> <
+        /SidebarWrapper> <
         /SidebarContainer>
     );
 };
