@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: "Premium Site",
     headLine: "Buy Online",
-    description: "Get access to our exclusive app that allows you to buy, sell, trade and earn Crypto Currencies without getting cahrged any fees.",
+    description: "Get access to our exclusive app that allows you to buy, sell, trade and earn Crypto Currencies without getting charged any fees.",
     buttonLabel: "Explore Buying Crypto Online",
     imgStart: false,
     img: require("../../images/png-1.png"),
